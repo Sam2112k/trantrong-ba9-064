@@ -1,4 +1,4 @@
-USTH CS 2021 Advanced Programming with Python
+USTH ICT 2021 Advanced Programming with Python
 =====================================================
 
 Students are expected to:
